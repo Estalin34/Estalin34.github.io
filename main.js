@@ -12,7 +12,7 @@ typewriter
   .deleteChars(10)
   .start();
 
-  // ABRIR MODAL
+
   function openModal() {
     var myModal = new bootstrap.Modal(document.getElementById('staticBackdrop'));
     myModal.show();
